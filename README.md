@@ -1,4 +1,4 @@
-# 데이터 시각화
+# 데이터 시각화_주피터 
 ## data-visualization in code it
 
 1. data vidualization1_선 그래프(boradcast)

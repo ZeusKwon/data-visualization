@@ -1,5 +1,5 @@
 # 데이터 시각화_주피터 노트북
-## data-visualization in code it
+## data-visualization in codeit
 
 1. data vidualization1_선 그래프(boradcast)
 2. data vidualization2_막대 그래프(boradcast)

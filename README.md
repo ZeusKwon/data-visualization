@@ -9,3 +9,4 @@
 5. data vidualization4_히스토그램(boradcast)
 6. data vidualization5_박스 플롯(boradcast)
 7. data vidualization6_산점도(boradcast)
+8. 실전문제
